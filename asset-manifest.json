@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/melnig/my-portfolio-spa/static/css/main.4ab7ece4.css",
+    "main.js": "/melnig/my-portfolio-spa/static/js/main.478efafd.js",
+    "static/media/solarmind.png": "/melnig/my-portfolio-spa/static/media/solarmind.b04717568a7801fc7799.png",
+    "static/media/avatar.jpg": "/melnig/my-portfolio-spa/static/media/avatar.1702edf5af9a0d835a56.jpg",
+    "static/media/cosmohive.png": "/melnig/my-portfolio-spa/static/media/cosmohive.a11459b5f71a5cdc7d6c.png",
+    "static/media/spacetrip.png": "/melnig/my-portfolio-spa/static/media/spacetrip.eecad106d71efc1ca3af.png",
+    "index.html": "/melnig/my-portfolio-spa/index.html",
+    "main.4ab7ece4.css.map": "/melnig/my-portfolio-spa/static/css/main.4ab7ece4.css.map",
+    "main.478efafd.js.map": "/melnig/my-portfolio-spa/static/js/main.478efafd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ab7ece4.css",
+    "static/js/main.478efafd.js"
+  ]
+}
